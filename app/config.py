@@ -1,4 +1,3 @@
-# app/config.py
 MODELS = [
     "mistral:7b-instruct"
 ]

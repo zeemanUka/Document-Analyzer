@@ -1,4 +1,3 @@
-# app/extract.py
 import io
 from typing import List, Optional
 
